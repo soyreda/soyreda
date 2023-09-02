@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm reda, software engineering student
+### I'm reda, a devops engineer 
 
 <!--
 **soyreda/soyreda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
